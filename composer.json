@@ -1,5 +1,5 @@
 {
-  "name": "tursodatabase/turso-driver-laravel",
+  "name": "peteradeojo/turso-driver-laravel",
   "description": "A Turso Driver for Laravel",
   "version": "1.3.1",
   "keywords": [
@@ -10,7 +10,7 @@
     "libsql-driver-laravel",
     "turso-driver-laravel"
   ],
-  "homepage": "https://github.com/tursodatabase/turso-driver-laravel",
+  "homepage": "https://github.com/peteradeojo/turso-driver-laravel",
   "license": "MIT",
   "authors": [
     {
